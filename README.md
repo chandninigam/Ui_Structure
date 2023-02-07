@@ -3,6 +3,6 @@
  To excute code
   
 1. git clone repo 
-2. Go live
+2. Open in browser
 
  
